@@ -11,8 +11,9 @@ class TermsRepository {
 
     String data =
     await rootBundle.loadString(
-      'assets/data/Terms.json',
+      'packages/glossary_package/assets/data/Terms.json',
     );
+
 
     final jsonResult =
     json.decode(data);
