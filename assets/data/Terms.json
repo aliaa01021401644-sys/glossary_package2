@@ -1,0 +1,36 @@
+{
+  "terms": [
+    {
+      "word": "Tetrahedral Molecules",
+      "definition": "Molecules in which a central atom is surrounded by four atoms arranged in a tetrahedral geometry."
+    },
+    {
+      "word": "VSEPR Notation",
+      "definition": "A notation based on the Valence Shell Electron Pair Repulsion theory used to predict the shape of molecules."
+    },
+    {
+      "word": "Repulsive Forces",
+      "definition": "Forces that occur between electron pairs due to their negative charges, causing them to move as far apart as possible."
+    },
+    {
+      "word": "Planar Bond",
+      "definition": "A bond that lies in the same geometric plane as other atoms or bonds in a molecule."
+    },
+    {
+      "word": "Tetrahedral Shape",
+      "definition": "A three-dimensional molecular shape with four bonds around a central atom and bond angles of about 109.5°."
+    },
+    {
+      "word": "Terminal Atoms",
+      "definition": "Atoms located at the outer ends of a molecule and directly bonded to the central atom."
+    },
+    {
+      "word": "Free Electrons",
+      "definition": "Pairs of valence electrons that are not involved in chemical bonding and remain on a single atom."
+    },
+    {
+      "word": "Valence Shell Electron",
+      "definition": "An electron found in the outermost energy level of an atom that participates in chemical bonding."
+    }
+  ]
+}
